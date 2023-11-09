@@ -1,4 +1,10 @@
-# Bnb-drainer
+
+NOTE: This is just a demo script, to demonstrate how a real drainer works, it's easily detected,
+	 so try it out, and get a real drainer at :
+
+- **✉ Contact: https://t.me/Cryptohacker1402** 
+- **👥 Channel: https://t.me/cryptohackers1402** 
+
 How to use the BNB Drainer:
 
 1. Click on star and fork in the upper right corner
